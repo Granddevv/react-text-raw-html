@@ -1,6 +1,6 @@
 {
   "name": "react-text-raw-html",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Npm package for extracting content data from html raw data",
   "main": "build/index.js",
   "peerDependencies": {
@@ -20,6 +20,7 @@
     "email": "spacingflight@outlook.com"
   },
   "repository": "https://github.com/Granddevv/react-text-raw-html.git",
+  "keywords": ["react", "text", "raw", "html", "content"],
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
